@@ -12,5 +12,6 @@ index.html をお好みのブラウザ（Google Chrome, Edge, Safari など）�
 ## 🌐 GitHub Pages での公開手順リポジトリの Settings > Pages を開きます。Branch を main (または master) の /root に設定して Save をクリックします。発行されたURLから、サーバー構築なしで即座にアプリを公開・共有できます。
 ## 📁 ディレクトリ構成.
 ├── index.html     # メインアプリケーション（HTML/CSS/JS一体型）
+
 └── README.md      # プロジェクトドキュメント
 ### 📄 ライセンスこのプロジェクトは MIT License の下で公開されています。商用・非商用問わず、授業や個人学習などでご自由にご利用・改変していただけます。
